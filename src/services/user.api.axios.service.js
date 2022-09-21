@@ -7,7 +7,7 @@ let axiosInstance = axios.create({
 
 let axiosInstancePost = axios.create({
     baseURL: 'https://jsonplaceholder.typicode.com/posts',
-    headers:{'Content-Type': 'application/json'}
+    // headers:{'Content-Type': 'application/json'}
 });
 
 const getUsersAxios = () => {

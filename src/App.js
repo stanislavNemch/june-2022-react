@@ -8,7 +8,7 @@ function App() {
     <div>
         {/*<Characters/>*/}
         {/*<Simpsons/>*/}
-        <Users/>
+        <Users />
         {/*<Missions/>*/}
 
     </div>
